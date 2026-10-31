@@ -82,8 +82,6 @@ Create and activate a Python virtual environment, then run:
 pip install -r requirements.txt
 ```
 
-Tested Python, framework, CUDA, and dependency versions:
-[INSERT VERIFIED ENVIRONMENT DETAILS]
 
 ## Running the Experiments
 
